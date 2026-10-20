@@ -1,0 +1,6 @@
+{
+  "name": "WanderSync — Collaborative Tour Planner & Travel Companion",
+  "description": "Plan advance group tours, book hotels and local transit, create real-time daily itineraries with offline maps, track shared budgets, discover curated food and historical guides, and collaborate in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
